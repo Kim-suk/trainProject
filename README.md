@@ -11,6 +11,9 @@ KG아이티뱅크에서 주간하는 프로젝트로, Eclipse 를 사용해서 G
 - 기차를 선택 후 해당하는 열차를 조건으로 그에 해당하는  출발과 도착지, 출발 시간, 도착 시간, 소요 시간, 요금을  보고 선택한다.
 - 원하는 좌석을 선택 후 결제한다.
 
+![train_project-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/f29471cc-19f2-4b02-bba7-abd1b87d51cc)
+<hr style="border: 3px solid #000;">
+
 ## 👩‍💻 개발자 소개 👨‍💻
 
 ### 👑 팀장
@@ -189,20 +192,19 @@ Pay 버튼을 눌렀을 때, Pay 페이지로 넘어간다.
 
 | 구분 | 내용 | 설명 |
 |:---|:---|:---|
-| **Backend** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/MyBatisg-%236DB33F.svg?style=for-the-badge&logo=MyBatis&logoColor=white)  | Java 17, MyBatis, Eclipse |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | JSP, HTML5, CSS3, JavaFX, scenebuilder |
-| **Database** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | Oracle (ojdbc8),Oracle SQL Developer(23.1.347) |
-| **Version Control** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | Git, GitHub |
+| **Language** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | Java 17 |
+| **Backend** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | Oracle (ojdbc8) |
+| **Frontend** |  ![JavaFX](https://img.shields.io/badge/JavaFX-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | JavaFX, scenebuilder |
+| **Database** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | Oracle (ojdbc8) |
 
 
 ## 🛠️ 개발 도구
 
 | 구분 | 도구 | 설명 |
 |:----:|:----:|:----|
-| IDE | ![STS3](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=black) | Eclipse |
+| IDE | ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=black) | Eclipse |
 | Database Tool | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=black) | Oracle,Oracle SQL Developer(23.1.347） |
 | Server | ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=black) | Tomcat 서버 |
-| Build Tool | ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=white) | Maven 프로젝트 빌드 관리 |
 
 <hr style="border: 3px solid #000;">
 
